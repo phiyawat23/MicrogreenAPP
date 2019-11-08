@@ -1,0 +1,7 @@
+<resources>
+    <color name="BG">#10101C</color>
+    <color name="text">#2F3340</color>
+    <string name="app_name">Microgreen</string>
+
+
+</resources>

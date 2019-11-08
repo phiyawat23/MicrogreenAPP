@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629748739716",
+    "firebase_url": "https://organic-6edf0.firebaseio.com",
+    "project_id": "organic-6edf0",
+    "storage_bucket": "organic-6edf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629748739716:android:c60fcee4cbf5247a915cd1",
+        "android_client_info": {
+          "package_name": "com.example.microgreenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629748739716-pq34giaeueb1b2t1qask4qbr4h8i3o96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.microgreenapp",
+            "certificate_hash": "517adb4db9a3c77b1ba829011f48fd25131dbc8f"
+          }
+        },
+        {
+          "client_id": "629748739716-3lp48erh3ca2ur8ijpk1v5ch1pffakbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjXsFZVp7uW8xyuJA1Zwo6Nrmry4i-cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629748739716-3lp48erh3ca2ur8ijpk1v5ch1pffakbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
